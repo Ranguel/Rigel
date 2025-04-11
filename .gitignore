@@ -1,0 +1,11 @@
+# ignore temporal
+*.pyc
+__pycache__/
+
+# ignore VSCode conf
+.vscode/
+
+# ignore system files
+Thumbs.db
+.DS_Store
+
