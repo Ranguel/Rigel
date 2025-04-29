@@ -2,6 +2,8 @@
  
 Pygame 2D Plataformer.
 
+![Gameplay Demo](Assets/images/demo.gif)
+
 ## Version
 
 **Version:** 0.5.1 (Alpha)
